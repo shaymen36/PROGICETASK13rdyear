@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066625073387",
+    "project_id": "progicetask2-498c5",
+    "storage_bucket": "progicetask2-498c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066625073387:android:fa760f4c1de8bf1505beae",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.progicetask1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqW-4Bp82X_LzoMNzi-YjlhVuP6QxxRNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
